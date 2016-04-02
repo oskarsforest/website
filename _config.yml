@@ -1,6 +1,6 @@
 # Site settings
-title: Oskar's Forest
-description: 'Oskar's Forest - a learning blog :)'
+title: "Oskar's Forest"
+description: "Oskar's Forest - a learning blog :)"
 url: "http://oskarsforest.github.io"
 baseurl: "/website/"
 # google_analytics: 'UA-XXXXXX-X'
