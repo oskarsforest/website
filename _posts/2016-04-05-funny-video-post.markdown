@@ -1,5 +1,5 @@
 ---
-title:  "Funny Video Post"
+title:  "Video Post Testing"
 date:   2016-04-03 23:55:23
 categories: [post]
 tags: [Test]
