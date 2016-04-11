@@ -7,10 +7,10 @@ baseurl: "/website/"
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Oskar Zhang'
+  name: 'Oskar R.H. Zhang'
   email: oskarzhang1203@gmail.com
   twitter_username: oskarsforest
-  facebook_username: oskarsforest
+  #facebook_username: oskarsforest
   github_username:  oskarsforest
   linkedin_username:  oskarsforest
 
