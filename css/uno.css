@@ -925,7 +925,7 @@ html {
 	max-height: 100%; }
 
 body {
-	font-family: "Raleway", sans-serif;
+	font-family: -apple-system, "Helvetica Neue", "Arial", "Raleway", sans-serif;
 	font-size: 1em;
 	color: #666666; }
 
@@ -953,7 +953,7 @@ h5,
 h5 {
 	margin-top: .8em;
 	margin-bottom: .4em;
-	font-family: "Roboto Slab", serif;
+	font-family: -apple-system, "Helvetica Neue", "Arial", "Roboto Slab", serif;
 	font-weight: lighter;
 	color: #333333;
 	-webkit-font-smoothing: antialiased; }
